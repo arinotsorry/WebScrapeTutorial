@@ -1,6 +1,7 @@
 # WebScrapeTutorial
-<br>
-Just me following the Beautiful Soup tutorial at https://realpython.com/beautiful-soup-web-scraper-python/#what-is-web-scraping
+
+Just me following the [ Beautiful Soup tutorial ](https://realpython.com/beautiful-soup-web-scraper-python/#what-is-web-scraping)
+at https://realpython.com/beautiful-soup-web-scraper-python/#what-is-web-scraping
 
 ### Step 1: Inspecting the Data Source
 - What kinds of changes happen to the URL when you follow different paths?
